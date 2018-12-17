@@ -24,9 +24,7 @@
     "url": "https://github.com/cuitaocrazy/ct-rest-fetch-utils/issues"
   },
   "dependencies": {
-    "node-fetch": "^2.3.0"
-  },
-  "devDependencies": {
+    "node-fetch": "^2.3.0",
     "@types/node-fetch": "^2.1.4"
   }
 }
