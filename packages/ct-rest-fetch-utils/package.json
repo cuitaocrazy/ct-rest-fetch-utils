@@ -1,0 +1,32 @@
+{
+  "name": "ct-rest-fetch-utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "cuitao <cuitaocrazy@163.com>",
+  "homepage": "https://github.com/cuitaocrazy/ct-rest-fetch-utils#readme",
+  "license": "ISC",
+  "main": "lib/ct-rest-fetch-utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuitaocrazy/ct-rest-fetch-utils.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/cuitaocrazy/ct-rest-fetch-utils/issues"
+  },
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.1.4"
+  }
+}
